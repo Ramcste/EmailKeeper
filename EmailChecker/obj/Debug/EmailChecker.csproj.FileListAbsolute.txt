@@ -1,0 +1,8 @@
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe.config
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\bin\Debug\EmailChecker.pdb
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.exe
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\obj\Debug\EmailChecker.pdb
+H:\Workspace\Visual Studio 2013\Projects\EmailChecker\EmailChecker\obj\Debug\EmailKeeper.Form1.resources
